@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>scott.starkey@snc</sys_created_by>
+        <sys_created_on>2019-12-13 15:41:50</sys_created_on>
+        <sys_id>1b23cd841331c8105b1f76076144b0e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_trex_table.x_snc_trex.user</sys_name>
+        <sys_package display_value="trex" source="x_snc_trex">fa234d841331c8105b1f76076144b028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="trex">fa234d841331c8105b1f76076144b028</sys_scope>
+        <sys_security_acl display_value="x_snc_trex_table">d323cd841331c8105b1f76076144b0e0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1b23cd841331c8105b1f76076144b0e4</sys_update_name>
+        <sys_updated_by>scott.starkey@snc</sys_updated_by>
+        <sys_updated_on>2019-12-13 15:41:50</sys_updated_on>
+        <sys_user_role display_value="x_snc_trex.user" name="x_snc_trex.user">b223cd841331c8105b1f76076144b0d0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

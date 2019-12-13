@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_trex.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>scott.starkey@snc</sys_created_by>
+        <sys_created_on>2019-12-13 15:41:48</sys_created_on>
+        <sys_id>b223cd841331c8105b1f76076144b0d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_trex.user</sys_name>
+        <sys_package display_value="trex" source="x_snc_trex">fa234d841331c8105b1f76076144b028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="trex">fa234d841331c8105b1f76076144b028</sys_scope>
+        <sys_update_name>sys_user_role_b223cd841331c8105b1f76076144b0d0</sys_update_name>
+        <sys_updated_by>scott.starkey@snc</sys_updated_by>
+        <sys_updated_on>2019-12-13 15:41:48</sys_updated_on>
+    </sys_user_role>
+</record_update>
