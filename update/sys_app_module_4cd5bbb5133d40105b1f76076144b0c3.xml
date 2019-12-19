@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="trex">fe230d841331c8105b1f76076144b027</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>trex tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_trex_trex_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_trex.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>scott.starkey@snc</sys_created_by>
+        <sys_created_on>2019-12-19 15:11:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4cd5bbb5133d40105b1f76076144b0c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>trex tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="trex" source="x_snc_trex">fa234d841331c8105b1f76076144b028</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="trex">fa234d841331c8105b1f76076144b028</sys_scope>
+        <sys_update_name>sys_app_module_4cd5bbb5133d40105b1f76076144b0c3</sys_update_name>
+        <sys_updated_by>scott.starkey@snc</sys_updated_by>
+        <sys_updated_on>2019-12-19 15:11:40</sys_updated_on>
+        <timeline_page/>
+        <title>trex tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

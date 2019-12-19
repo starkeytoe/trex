@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="trex Table" language="en" table="x_snc_trex_table">
+    <sys_documentation element="" label="trex table" language="en" table="x_snc_trex_trex_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>trex Table</label>
+            <label>trex table</label>
             <language>en</language>
-            <name>x_snc_trex_table</name>
-            <plural>trex Tables</plural>
+            <name>x_snc_trex_trex_table</name>
+            <plural>trex tables</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>scott.starkey@snc</sys_created_by>
-            <sys_created_on>2019-12-13 15:41:52</sys_created_on>
-            <sys_id>19f5cd4cdb35c010c3f8f78eaf9619cf</sys_id>
+            <sys_created_on>2019-12-19 15:11:44</sys_created_on>
+            <sys_id>30d5ffb5133d40105b1f76076144b0f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>trex Table</sys_name>
+            <sys_name>trex table</sys_name>
             <sys_package display_value="trex" source="x_snc_trex">fa234d841331c8105b1f76076144b028</sys_package>
             <sys_policy/>
             <sys_scope display_value="trex">fa234d841331c8105b1f76076144b028</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_trex_table__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_trex_trex_table__en</sys_update_name>
             <sys_updated_by>scott.starkey@snc</sys_updated_by>
-            <sys_updated_on>2019-12-13 15:41:52</sys_updated_on>
+            <sys_updated_on>2019-12-19 15:11:44</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

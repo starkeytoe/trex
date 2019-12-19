@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="trex table" max_length="40" name="x_snc_trex_trex_table" type="collection">
+        <element label="trex col" max_length="40" name="trex_col" type="string"/>
+    </element>
+</database>
